@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+        "axios": "^0.21.1",
+        "qs": "^6.9.6",
+        "dateformat": "^4.5.1",
+        "crypto": "^1.0.1"
+    }
+}
